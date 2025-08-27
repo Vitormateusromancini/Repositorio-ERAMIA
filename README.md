@@ -1,6 +1,6 @@
 # Repositorio-ERAMIA
 
-Repositório com o PDF estruturado utilizado nos testes e os códigos para segmentação de textos em três estratégias de chunking: 
+Repositório com o PDF estruturado utilizado nos testes, seu arquivo em markdown e os códigos para segmentação de textos em três estratégias de chunking: 
 
 1. Heurística por limites textuais
 
